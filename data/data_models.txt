@@ -24,7 +24,7 @@
 - refresh_status (refresh_status)
 - status_confidence_label (status_confidence_label)
 
-## Current-Employee-Profiles
+## Current-Unicorn-Employee-Profiles
 - id (int8, primary key)
 - created_at (timestamp)
 - linkedin_url (text)
